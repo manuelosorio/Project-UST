@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Project U.S.T</name>
+	<comment>Project Project U.S.T created by Buildship.</comment>
+	<projects>
+		<project>Project UST-core</project>
+		<project>Project UST-desktop</project>
+		<project>Project UST-html</project>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.buildship.core.gradleprojectbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.buildship.core.gradleprojectnature</nature>
+	</natures>
+</projectDescription>

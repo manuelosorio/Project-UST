@@ -8,8 +8,6 @@
 *.ipr
 *.iws
 *.so
-.classpath
-.project
 .settings/
 .gradle/
 .idea/
