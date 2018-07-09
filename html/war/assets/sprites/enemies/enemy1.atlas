@@ -1,0 +1,20 @@
+
+enemy1.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Linear
+repeat: none
+1-walk
+  rotate: false
+  xy: 2, 8
+  size: 170, 30
+  orig: 170, 30
+  offset: 0, 0
+  index: -1
+2-attack
+  rotate: false
+  xy: 2, 46
+  size: 274, 49
+  orig: 274, 49
+  offset: 0, 0
+  index: -1
