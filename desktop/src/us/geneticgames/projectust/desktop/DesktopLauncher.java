@@ -14,7 +14,7 @@ public class DesktopLauncher {
 		config.addIcon("logo/icon_128x.png", FileType.Internal);
 		config.foregroundFPS = 60;
 		config.allowSoftwareMode= true;
-		config.useGL30 = true;
+		config.useGL30 = false;
 		new LwjglApplication(new ProjectUST(), config);
 		
 	}
